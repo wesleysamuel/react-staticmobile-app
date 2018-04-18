@@ -1,0 +1,19 @@
+.App {
+  color: #FFF;
+  height: 100vh;
+  background-image: url('./background.png');
+  position: fixed;
+}
+
+.logo { 
+  height: 35px;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
